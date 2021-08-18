@@ -8,5 +8,5 @@ eureka:
     hostname: localhost
     
 env:
- name: DEV
+ name: UAT
     
